@@ -1,0 +1,28 @@
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.exe
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.deps.json
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.json
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.dev.json
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfo.cs
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.genruntimeconfig.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.exe
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.deps.json
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.json
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.dev.json
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfo.cs
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\bin\Debug\netcoreapp3.1\SwappingNumbers.exe
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\bin\Debug\netcoreapp3.1\SwappingNumbers.deps.json
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\bin\Debug\netcoreapp3.1\SwappingNumbers.runtimeconfig.json
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\bin\Debug\netcoreapp3.1\SwappingNumbers.runtimeconfig.dev.json
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\bin\Debug\netcoreapp3.1\SwappingNumbers.dll
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\bin\Debug\netcoreapp3.1\SwappingNumbers.pdb
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.AssemblyInfoInputs.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.AssemblyInfo.cs
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.dll
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.pdb
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic\Class02\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.genruntimeconfig.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\bin\Debug\netcoreapp3.1\SwappingNumbers.exe
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\bin\Debug\netcoreapp3.1\SwappingNumbers.deps.json
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\bin\Debug\netcoreapp3.1\SwappingNumbers.runtimeconfig.json
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\bin\Debug\netcoreapp3.1\SwappingNumbers.runtimeconfig.dev.json
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\bin\Debug\netcoreapp3.1\SwappingNumbers.dll
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\bin\Debug\netcoreapp3.1\SwappingNumbers.pdb
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.AssemblyInfoInputs.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.AssemblyInfo.cs
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.dll
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.pdb
+C:\Users\Mihajlo\OneDrive\Desktop\C# Basic Homeworks\Class02Homework\SwappingNumbers\obj\Debug\netcoreapp3.1\SwappingNumbers.genruntimeconfig.cache
