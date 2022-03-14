@@ -7,18 +7,11 @@ namespace SumOfEven
         static void Main(string[] args)
         {
             int[] integerArray = new int[6];
-            Console.WriteLine("Enter first integer and click enter:");
-            bool promptInteger = int.TryParse(Console.ReadLine(), out integerArray[0]);
-            Console.WriteLine("Enter second integer and click enter:");
-            bool promptInteger2 = int.TryParse(Console.ReadLine(), out integerArray[1]);
-            Console.WriteLine("Enter third integer and click enter:");
-            bool promptInteger3 = int.TryParse(Console.ReadLine(), out integerArray[2]);
-            Console.WriteLine("Enter fourth integer and click enter:");
-            bool promptInteger4 = int.TryParse(Console.ReadLine(), out integerArray[3]);
-            Console.WriteLine("Enter fifth integer and click enter:");
-            bool promptInteger5 = int.TryParse(Console.ReadLine(), out integerArray[4]);
-            Console.WriteLine("Enter sixth integer and click enter:");
-            bool promptInteger6 = int.TryParse(Console.ReadLine(), out integerArray[5]);
+            for (int i = 0; i < integerArray.Length; i++)
+            {
+                Console.WriteLine($"Enter integer no. {i + 1} and click enter:");
+                bool promptInteger = int.TryParse(Console.ReadLine(), out integerArray[i]);
+            }
             int sumOfEven = 0; 
             for (int i = 0; i < integerArray.Length; i++)
             {
