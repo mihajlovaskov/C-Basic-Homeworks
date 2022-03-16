@@ -10,7 +10,22 @@ namespace SumOfEven
             for (int i = 0; i < integerArray.Length; i++)
             {
                 Console.WriteLine($"Enter integer no. {i + 1} and click enter:");
+                for (; ; ) { 
                 bool promptInteger = int.TryParse(Console.ReadLine(), out integerArray[i]);
+                    if (!promptInteger)
+                    {
+                        Console.WriteLine("You've entered an invalid number! Please try again!");
+                    }
+                    else if (promptInteger)
+                    {
+                        break;
+                    }
+                }
+            }
+            Console.WriteLine("The final list of integers in your integer array is: ");
+            foreach (int members in integerArray)
+            {
+                Console.WriteLine($"{members}");
             }
             int sumOfEven = 0; 
             for (int i = 0; i < integerArray.Length; i++)

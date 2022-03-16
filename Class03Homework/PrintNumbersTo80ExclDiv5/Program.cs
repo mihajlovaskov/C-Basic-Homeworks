@@ -7,9 +7,26 @@ namespace PrintNumbersTo80ExclDiv5
         static void Main(string[] args)
         {
             Console.WriteLine("Enter any positive integer:");
-            int number = int.Parse(Console.ReadLine());
+            int positiveInteger;
+            for (; ; )
+            {
+                bool check = int.TryParse(Console.ReadLine(), out positiveInteger);
+                if (!check)
+                {
+                    Console.WriteLine("You've entered an invalid number. Please try again!");
+                }
+                else if (positiveInteger <= 0)
+                {
+                    Console.WriteLine("You've entered a negative integer. Please try again!");
+                }
+                else if (check && positiveInteger > 0) 
+                {
+                    Console.WriteLine("Great! Your number is valid!");
+                    break;
+                }
+            }
             Console.WriteLine("This is a list of integers below 80, excluding numbers divisible by 5: ");
-            for (int i = 1; i <= number; i++)
+            for (int i = 1; i <= positiveInteger; i++)
             {
                 if (i == 80)
                 {
