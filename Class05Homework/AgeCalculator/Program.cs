@@ -166,42 +166,43 @@ namespace AgeCalculator
                 }
             }
             AgeCalculator(yourYear, yourMonth, yourDay);
-            static void AgeCalculator(int birthYear, int birthMonth, int birthDay)
+        }
+        static void AgeCalculator(int birthYear, int birthMonth, int birthDay)
+        {
+            string birthday = $"{birthDay}.{birthMonth}.{birthYear}";//znam deka ova poinaku se pravi. no pri testiranje primetiv deka isfrla greska ako hipoteticki korisnikot vnese negativna godina (godina od pred novata era). teoretski korisnikot mozebi saka da proveri kolku godini pominale od nekoj nastan ili necie ragjanje sto se slucile vo nekoja godina od pred novata era
+            Console.WriteLine($"Your birthday is on {birthday}.");
+            if (birthYear < DateTime.Now.Year && birthMonth > DateTime.Now.Month)
             {
-                string birthday = $"{birthDay}.{birthMonth}.{birthYear}";//znam deka ova poinaku se pravi. no pri testiranje primetiv deka isfrla greska ako hipoteticki korisnikot vnese negativna godina (godina od pred novata era). teoretski korisnikot mozebi saka da proveri kolku godini pominale od nekoj nastan ili necie ragjanje sto se slucile vo nekoja godina od pred novata era
-                Console.WriteLine($"Your birthday is on {birthday}.");
-                if (birthYear < DateTime.Now.Year && birthMonth > DateTime.Now.Month)
-                {
-                    int ageYears = DateTime.Now.Year - birthYear - 1;
-                    Console.WriteLine($"You are {ageYears} year(s) old.");
-                }
-                else if (birthYear < DateTime.Now.Year && birthMonth == DateTime.Now.Month && birthDay > DateTime.Now.Day)
-                {
-                    int ageYears = DateTime.Now.Year - birthYear - 1;
-                    Console.WriteLine($"You are {ageYears} years old.");
-                }
-                else if (birthYear < DateTime.Now.Year && birthMonth == DateTime.Now.Month && birthDay <= DateTime.Now.Day)
-                {
-                    int ageYears = DateTime.Now.Year - birthYear;
-                    Console.WriteLine($"You are {ageYears} years old.");
-                }
-                else if (birthYear < DateTime.Now.Year && birthMonth < DateTime.Now.Month)
-                {
-                    int ageYears = DateTime.Now.Year - birthYear;
-                    Console.WriteLine($"You are {ageYears} years old.");
-                }
-
-                else if (birthYear == DateTime.Now.Year && birthMonth < DateTime.Now.Month)
-                {
-                    int ageMonths = DateTime.Now.Month - birthMonth;
-                    Console.WriteLine($"You are {ageMonths} month(s) old.");
-                }
-                else if (birthYear == DateTime.Now.Year && birthMonth == DateTime.Now.Month && birthDay <= DateTime.Now.Day)
-                {
-                    int ageDays = DateTime.Now.Day - birthDay;
-                    Console.WriteLine($"You are {ageDays} day(s) old.");
-                }
+                int ageYears = DateTime.Now.Year - birthYear - 1;
+                Console.WriteLine($"You are {ageYears} year(s) old.");
             }
+            else if (birthYear < DateTime.Now.Year && birthMonth == DateTime.Now.Month && birthDay > DateTime.Now.Day)
+            {
+                int ageYears = DateTime.Now.Year - birthYear - 1;
+                Console.WriteLine($"You are {ageYears} years old.");
+            }
+            else if (birthYear < DateTime.Now.Year && birthMonth == DateTime.Now.Month && birthDay <= DateTime.Now.Day)
+            {
+                int ageYears = DateTime.Now.Year - birthYear;
+                Console.WriteLine($"You are {ageYears} years old.");
+            }
+            else if (birthYear < DateTime.Now.Year && birthMonth < DateTime.Now.Month)
+            {
+                int ageYears = DateTime.Now.Year - birthYear;
+                Console.WriteLine($"You are {ageYears} years old.");
+            }
+
+            else if (birthYear == DateTime.Now.Year && birthMonth < DateTime.Now.Month)
+            {
+                int ageMonths = DateTime.Now.Month - birthMonth;
+                Console.WriteLine($"You are {ageMonths} month(s) old.");
+            }
+            else if (birthYear == DateTime.Now.Year && birthMonth == DateTime.Now.Month && birthDay <= DateTime.Now.Day)
+            {
+                int ageDays = DateTime.Now.Day - birthDay;
+                Console.WriteLine($"You are {ageDays} day(s) old.");
+            }
+
         }
     }
 }

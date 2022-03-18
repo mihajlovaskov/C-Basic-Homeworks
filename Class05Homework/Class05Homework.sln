@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculator", "AgeCalculator\AgeCalculator.csproj", "{E3D3BE3C-0485-4C87-81DD-C47B91B32EFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgeCalculator-three parameters", "AgeCalculator\AgeCalculator-three parameters.csproj", "{E3D3BE3C-0485-4C87-81DD-C47B91B32EFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanClassCreation", "HumanClass\HumanClassCreation.csproj", "{9D39EC51-E696-42BC-8E1A-AD0DB73A483C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HumanClassCreation", "HumanClass\HumanClassCreation.csproj", "{9D39EC51-E696-42BC-8E1A-AD0DB73A483C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgeCalculator-one parameter", "AgeCalculator2\AgeCalculator-one parameter.csproj", "{2A8CA557-B304-46A5-A75A-47AA5DC3EBBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9D39EC51-E696-42BC-8E1A-AD0DB73A483C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D39EC51-E696-42BC-8E1A-AD0DB73A483C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D39EC51-E696-42BC-8E1A-AD0DB73A483C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8CA557-B304-46A5-A75A-47AA5DC3EBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8CA557-B304-46A5-A75A-47AA5DC3EBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8CA557-B304-46A5-A75A-47AA5DC3EBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8CA557-B304-46A5-A75A-47AA5DC3EBBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
