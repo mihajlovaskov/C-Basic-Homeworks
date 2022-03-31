@@ -4,23 +4,10 @@ namespace ClassShape.Models
     public class CreationOfClassShape
     {
         public string Name { get; set; }
-        public string get()
-        {
-            return Name;
-        }
-        public void set(string value)
-        {
-            if (String.IsNullOrEmpty(value))
-            {
-                throw new Exception("Name must not be empty");
-            }
-            else { Name = value; }
-        }
-    
-    public string Color { get; set; }   
-    public int[] Position { get; set; }
+        public string Color { get; set; }   
+        public int[] Position { get; set; }
 
-    public CreationOfClassShape(string name, string color, int[] position)
+        public CreationOfClassShape(string name, string color, int[] position)
         {
             if (String.IsNullOrEmpty(name))
             {
